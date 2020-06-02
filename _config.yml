@@ -31,7 +31,11 @@ github_username:  jekyll
 
 # Build settings
 #theme: minima
-theme: texture 
+#for local
+#theme: texture 
+
+#for github
+remote_theme: thelehhman/texture
 plugins:
   - jekyll-feed
 
